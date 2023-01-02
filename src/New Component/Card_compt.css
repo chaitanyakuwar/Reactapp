@@ -1,0 +1,72 @@
+/* #card-third{ */
+    /* max-width: "540px"; */
+    /* height: 550px; */
+/* } */
+/* #img-chag{ */
+    /* width: 747px;
+    height: 547px; */
+        /* width: 666px;
+        height: 525px;
+} */
+.text-info{
+    border: 2px solid red;
+    position: relative;
+    top: 49px;
+}
+
+#change_text{
+    margin: 31px auto;
+    width: auto;
+    /* border: 3px solid green; */
+    padding: 13px;
+  
+}
+/* click change images. */
+
+.btn-container{
+    /* border: 2px solid red; */
+}
+.text-content{
+    /* border: 2px solid black; */
+}
+.text-content button{
+    width: 364px;
+    font-size: 21px;
+    font-family: serif;
+    border: none;
+    /* background-color: rgb(249, 221, 170); */
+}
+.text-content button:hover{
+    font-size:23px;
+    color: red;
+    text-decoration:underline;
+    /* background-color: rgb(249, 221, 170); */
+    background-color:rgb(243, 228, 232);
+}
+
+/* change card */
+#change-img{
+    border: none;
+}
+
+
+/* about row */
+/* 
+#about-row{
+    box-shadow: 3px -2px 10px grey;
+    border-radius: 4px;
+
+    padding: 50px;
+  /* background-color: green; */
+  /* transition: transform 2s;
+  
+  margin: 0 auto; */
+/* }  */
+/* #about-row:hover{
+    
+        -ms-transform: scale(1.5); /* IE 9 */
+        /* -webkit-transform: scale(1.5); Safari 3-8 */
+        /* transform: scale(1.5);  */
+    
+/* } */
+

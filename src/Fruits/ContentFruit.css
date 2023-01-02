@@ -1,0 +1,33 @@
+.card-body span{
+    color:red;
+}
+.sign1{
+    border: none;
+
+}
+.count{
+    border: none;
+}
+.Add-card{
+    border: none;
+}
+.card-style{
+  box-shadow: 2px 2px 7px grey;
+}
+
+/* Bread */
+
+hr{
+    box-shadow: 4px -1px grey;
+}
+
+/* both bread and content fruits */
+
+.heading{
+    font-family: 'Spectral', serif;
+}
+.veg_Bread{
+    box-shadow: 2px 2px 8px grey;
+}
+
+/* Content fruits */

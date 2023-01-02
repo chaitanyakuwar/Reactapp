@@ -1,0 +1,30 @@
+.btn1{
+    color: red;
+    width: 253px;
+    height: 52px;
+    padding: 7px 2px;
+    border-radius: -4px;
+    font-size: larger;
+    background-color: orange;
+    border: none;
+    font-weight: bold;
+}
+.btn1:hover{
+    background-color: rgb(160, 222, 160);
+    opacity:0.8;
+}
+
+.img-box{
+    /* width: 100px;
+  height: 100px; */
+  /* background: red; */
+  transition: width 2s, height 4s;
+}
+.img-box:hover{
+    width: 500px;
+  /* height: 600px; */
+}
+
+#fruit-box{
+    padding:34px;
+}
